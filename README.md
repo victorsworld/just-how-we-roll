@@ -6,7 +6,7 @@ Today you'll be making an app that combines all the fun of rolling dice with all
 
 ### Tools Left Behind
 
-There's been some code left behind in this other-wise gutted app: a random number generator and an array sorter. Use them!
+A random number generator has been provided.
 
 And feel free to use the comment boxes to organize your sections. (Or don't.)
 
