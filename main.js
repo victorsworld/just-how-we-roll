@@ -2,10 +2,10 @@
  * DATA *
  **********/
 
-const sixes = [];
-const doubleSixes = [];
-const twelves = [];
-const twenties = [];
+let sixes = [];
+let doubleSixes = [];
+let twelves = [];
+let twenties = [];
 
 /********************
  * HELPER FUNCTIONS *
