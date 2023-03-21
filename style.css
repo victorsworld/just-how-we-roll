@@ -7,11 +7,17 @@
     flex-direction: column;
 }
 
-#d6, #d12, #d20, #double-d6 {
+#d6roll, #d6roll1, #d6roll2, #d12roll, #d20roll {
     display: flex;
     justify-content: space-around;
+    height: 100px;
+   
 }
+#mean, #d6rollsmean, #doubled6rollsmean, #d12rollsmean, #d20rollsmean {
+    text-align:right;
+    margin-right: 50px;
 
+}
 .roll {
     height: 100px;
     width: 100px;
